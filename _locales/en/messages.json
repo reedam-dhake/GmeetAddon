@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Gmeet-Addon",
+    "description": "Gmeet-Addon"
+  },
+  "appDesc": {
+    "message": "Extends google meet functionality by adding chat export, screenshots, and more",
+    "description":"Extends google meet functionality by adding chat export, screenshots, and more"
+  }
+}

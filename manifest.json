@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "default_locale": "en",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "action": {
+    "default_icon": "images/meet.png",
+    "default_title": "__MSG_appName__",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
